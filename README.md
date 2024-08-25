@@ -1,20 +1,20 @@
-# **_Meu Portfólio_**
+![Gif](https://github.com/WolfyTyler/ProfileAssets/blob/main/Images%26Gifs/FutureGlow.gif)
+# **Hobbies e Interesses:**
 
-## Sobre Mim:
+## :headphones: Música:
 
-Olá! Me chamo UlvTyler, mas pode me chamar de Tyler. Sou um entusiasta em tecnologia e sempre estou disposto a aprender coisas novas. 
+- **Gêneros Favoritos:** Phonk, Rock e Eletrônica. 
 
-## Hobbies e Interesses:
+## :book: Leitura:
 
-- Música
-- Leitura
-- Programação
+- **Livros Favoritos:** "As provações de Apolo - 1 à 5", "Magnus Chase e os Deuses de Asgard - 1 à 3" e "Conjurador - 1 à 3"
+- **Gêneros Favoritos:** Ficção científica, Aventura e Fantasia.
 
-## Linguagens de Programação Favoritas:
+## :computer: Linguagens de Programação:
 
-![CppImag](https://skillicons.dev/icons?i=java)
-![CppImag](https://skillicons.dev/icons?i=python) 
-![CppImag](https://skillicons.dev/icons?i=cpp)
-![CppImag](https://skillicons.dev/icons?i=cs)
-![CppImag](https://skillicons.dev/icons?i=c)
-
+| Linguagem | Projeto |
+| ------------------------ | ------- |
+| ![PyImag](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | [LukeLib](https://github.com/WolfyTyler/LukeLib)  |
+| ![C\CppImag](https://img.shields.io/badge/-C/C++-darkblue?style=for-the-badge&logo=Cplusplus) | |
+| ![CsImag](https://img.shields.io/badge/Csharp-800080?style=for-the-badge&logo=c#&logoColor=white) | |
+| ![JavaImag](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | |
