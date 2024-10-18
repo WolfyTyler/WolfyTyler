@@ -1,4 +1,5 @@
-![Gif](https://github.com/WolfyTyler/ProfileAssets/blob/main/Images%26Gifs/FutureGlow.gif)
+![Gif](https://github.com/WolfyTyler/ProfileAssets/blob/main/Images%26Gifs/FutureGlow.gif
+
 # **Hobbies e Interesses:**
 
 ## :headphones: Música:
