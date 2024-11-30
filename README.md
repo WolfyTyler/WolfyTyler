@@ -15,7 +15,7 @@
 
 | Linguagem | Projeto |
 | ------------------------ | ------- |
-| ![PyImag](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | [LukeLib](https://github.com/WolfyTyler/JsonAtlas)  |
+| ![PyImag](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | [JsonAtlas](https://github.com/WolfyTyler/JsonAtlas)  |
 | ![C\CppImag](https://img.shields.io/badge/-C/C++-darkblue?style=for-the-badge&logo=Cplusplus) | |
 | ![CsImag](https://img.shields.io/badge/Csharp-800080?style=for-the-badge&logo=c#&logoColor=white) | |
 | ![JavaImag](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | |
